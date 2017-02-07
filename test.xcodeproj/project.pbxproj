@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					F0C3D4A51E4A59DC00704BFD = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = XLW5FJ23T8;
 						ProvisioningStyle = Automatic;
 					};
 					F0C3D4BE1E4A59DC00704BFD = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XLW5FJ23T8;
 				INFOPLIST_FILE = test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Devobal-Mac2.test";
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XLW5FJ23T8;
 				INFOPLIST_FILE = test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Devobal-Mac2.test";
